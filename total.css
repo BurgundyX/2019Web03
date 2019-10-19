@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.indent{text-indent:8em;}
+.indent2{text-indent: 10em;}
+.center{text-align: center;}
+.strong{font-weight:23px;color:darkred}
+.ptitle{font-size: 30px;text-align:center;font-family:Times, Cambria, "Times New Roman"}
+.p2{font-style: italic;text-align: center}
+.red{color:darkred;}
+a.begina{text-decoration:none;color:darkred;font-weight: bolder;font-size:23px;}
+a.beginb{text-decoration:none;color:darkred;font-weight: bolder;font-size:21px;}
+h1,h2,h3,h4{font-family:'华文楷体,楷体,宋体';color:#2F4F4F;}
+h1{font-size: 40px;}
+h2{font-size: 25px;}
+h3{font-size: 21px;}
+h4{font-size: 20px;}
+
+body{
+font-size: 20px;
+background-color:#FDF5E6;
+color:#2F4F4F;
+background-attachment: fixed;
+
+}
